@@ -1,0 +1,14 @@
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\bin\x86\Debug\Phonebook_pro.exe.config
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\bin\x86\Debug\Phonebook_pro.exe
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\bin\x86\Debug\Phonebook_pro.pdb
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.csproj.AssemblyReference.cache
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.AboutUs_frm.resources
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.Form1.resources
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.Properties.Resources.resources
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.Reg_frm.resources
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.Search_frm.resources
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.csproj.GenerateResource.cache
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.csproj.CoreCompileInputs.cache
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.exe
+C:\Users\lasho\source\repos\C#_.Net\Phonebook_pro\Phonebook_pro\obj\x86\Debug\Phonebook_pro.pdb
